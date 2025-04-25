@@ -1,4 +1,4 @@
-# ubiq
+# UbiqMQTT
 
 The Ubiq what to implements the uniquotus concept of pervasive network or ambient network where network connectivity and computing capabilities are seamlessly integrated into everyday objects and environments enabling constant and seamless communication and information exchange.
 
